@@ -13,11 +13,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/jeedasokkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeeda sokkar" height="30" width="40" /></a>
-<a href="https://fb.com/geeda sokkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geeda sokkar" height="30" width="40" /></a>
-<a href="https://leetcode.com/jeeda2003" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeeda2003" height="30" width="40" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jeedasokkar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeeda sokkar" height="30" width="40" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:jeedasokkar2003@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-mail.svg" alt="Email" height="30" width="40" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://fb.com/geeda.sokkar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geeda sokkar" height="30" width="40" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/jeeda2003" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeeda2003" height="30" width="40" />
+  </a>
+</p>
 
 </p>
 
