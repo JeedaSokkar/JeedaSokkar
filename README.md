@@ -70,12 +70,25 @@ Strong foundation in **React, JavaScript, Tailwind CSS, Material UI**, and moder
 </p>
 
 ---
+---
 
-### 📂 Projects
-<p align="left">
-  <a href="https://github.com/JeedaSokkar/Math4Joy" target="_blank">Math4Joy – Educational Platform</a><br>
-  <a href="https://github.com/JeedaSokkar/E-Commerce" target="_blank">E-Commerce Web Application</a><br>
-  <a href="https://github.com/JeedaSokkar/Furni-Shop" target="_blank">Shop Website – Furni</a>
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/JeedaSokkar/Math4Joy" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=Math4Joy&theme=radical" alt="Math4Joy" />
+  </a>
+  <a href="https://github.com/JeedaSokkar/E-Commerce" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=E-Commerce&theme=radical" alt="E-Commerce App" />
+  </a>
+  <a href="https://github.com/JeedaSokkar/Furni-Shop" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=Furni-Shop&theme=radical" alt="Furni Shop" />
+  </a>
 </p>
 
+<p align="center">
+  <i>Click on any project to explore the code, live demo, or documentation!</i>
+</p>
+
+---
 </div>
