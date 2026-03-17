@@ -3,30 +3,18 @@
 # 👋 Hi, I'm Jeeda Sokkar
 ### 💻 Front-End Developer | Computer Systems Engineering
 
-<p>
-<a href="https://www.linkedin.com/in/jeedasokkar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:jeedasokkar2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<a href="https://github.com/JeedaSokkar">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://leetcode.com/jeeda2003">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
-</p>
+
+
 
 </div>
 
----
 
-## 📝 About Me
+
+
 
 Front-End Developer passionate about building clean, responsive, and user-friendly web applications.  
 Strong experience with React, JavaScript, Tailwind CSS, Material UI, and modern web technologies.
