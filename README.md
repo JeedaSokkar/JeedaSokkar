@@ -58,21 +58,6 @@ Experienced in React, JavaScript, Tailwind CSS, Material UI, and modern frontend
 
 ---
 
-## Projects
-
-🔹 Math4Joy  
-Interactive math learning website built with React  
-https://github.com/JeedaSokkar/Math4Joy  
-
-🔹 E-Commerce Website  
-Frontend store using React + Tailwind + API  
-https://github.com/JeedaSokkar/E-Commerce  
-
-🔹 Furni Shop  
-Responsive website using HTML, CSS, JavaScript  
-https://github.com/JeedaSokkar/Furni-Shop  
-
----
 ## GitHub Stats
 
 <table>
