@@ -1,94 +1,89 @@
 <div align="center">
 
 # 👋 Hi, I'm Jeeda Sokkar
-### 💻 Front-End Developer |  Computer Systems Engineering
+### 💻 Front-End Developer | Computer Systems Engineering
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeedasokkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jeedasokkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jeedasokkar2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/JeedaSokkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/JeedaSokkar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/jeeda2003" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://leetcode.com/jeeda2003">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
----
-
-### 📝 About Me
-I am a **Front-End Developer** passionate about creating **clean, responsive, and user-friendly** web applications.  
-Strong foundation in **React, JavaScript, Tailwind CSS, Material UI**, and modern web technologies.  
-
----
-### 🛠️ Skills
-
-<div align="left">
-
-<strong>Frontend & UI:</strong>
-<div style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:16px;">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=mui" title="Material UI" width="45" height="45" />
-</div>
-
-<strong>Programming Languages:</strong>
-<div style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:16px;">
-  <img src="https://skillicons.dev/icons?i=java" title="Java" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="45" height="45" />
-</div>
-
-<strong>Tools & Environment:</strong>
-<div style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:16px;">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=windows" title="Windows" width="45" height="45" />
-</div>
-
 </div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jeedasokkar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+## 📝 About Me
+
+Front-End Developer passionate about building clean, responsive, and user-friendly web applications.  
+Strong experience with React, JavaScript, Tailwind CSS, Material UI, and modern web technologies.
+
+---
+
+## 🛠️ Skills
+
+### Frontend & UI
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mui" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeedasokkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeedasokkar&theme=radical&hide_border=true" alt="Streak" />
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,cs" />
 </p>
 
----
+### Tools & Environment
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/JeedaSokkar/Math4Joy" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=Math4Joy&theme=radical" alt="Math4Joy" />
-  </a>
-  <a href="https://github.com/JeedaSokkar/E-Commerce" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=E-Commerce&theme=radical" alt="E-Commerce App" />
-  </a>
-  <a href="https://github.com/JeedaSokkar/Furni-Shop" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=Furni-Shop&theme=radical" alt="Furni Shop" />
-  </a>
-</p>
 
-<p align="center">
-  <i>Click on any project to explore the code, live demo, or documentation!</i>
+<a href="https://github.com/JeedaSokkar/Math4Joy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=Math4Joy&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/JeedaSokkar/E-Commerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=E-Commerce&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/JeedaSokkar/Furni-Shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeedaSokkar&repo=Furni-Shop&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeedaSokkar&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeedaSokkar&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeedaSokkar&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ From Jeeda Sokkar — Frontend Developer
+
 </div>
