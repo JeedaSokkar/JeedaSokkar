@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Jeeda Sokkar
-### 💻 Front-End Developer | 🎓 Computer Systems Engineering
+### 💻 Front-End Developer |  Computer Systems Engineering
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeedasokkar" target="_blank">
@@ -25,23 +25,33 @@ I am a **Front-End Developer** passionate about creating **clean, responsive, an
 Strong foundation in **React, JavaScript, Tailwind CSS, Material UI**, and modern web technologies.  
 
 ---
-
 ### 🛠️ Skills
 
 **Frontend & UI:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mui" width="45" /> 
-</p>
+<div align="left" style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:8px;">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=mui" title="Material UI" width="45" height="45" />
+</div>
 
 **Programming Languages:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs" width="45" />
-</p>
+<div align="left" style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:8px;">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="45" height="45" />
+</div>
 
 **Tools & Environment:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,windows" width="45" />
-</p>
+<div align="left" style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:8px;">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows" width="45" height="45" />
+</div>
 
 ---
 
