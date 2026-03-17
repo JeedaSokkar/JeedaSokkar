@@ -15,11 +15,11 @@
 <a href="https://github.com/JeedaSokkar">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </a>
-
+<!--
 <a href="https://leetcode.com/jeeda2003">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
 </a>
-
+-->
 </p>
 
 </div>
@@ -93,7 +93,12 @@ https://github.com/JeedaSokkar/Furni-Shop
 
 ## Contact
 
-📧 jeedasokkar2003@gmail.com  
-🔗 linkedin.com/in/jeedasokkar  
-💻 github.com/JeedaSokkar  
-🧠 leetcode.com/jeeda2003
+
+<p align="center">
+
+📧 <a href="mailto:jeedasokkar2003@gmail.com">jeedasokkar2003@gmail.com</a> •  
+🔗 <a href="https://www.linkedin.com/in/jeedasokkar">LinkedIn</a> •  
+💻 <a href="https://github.com/JeedaSokkar">GitHub</a> •  
+<!--🧠 <a href="https://leetcode.com/jeeda2003">LeetCode</a>-->
+
+</p>
