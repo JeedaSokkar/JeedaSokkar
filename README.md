@@ -23,21 +23,34 @@ Passionate about creating **clean**, **responsive**, and **user-friendly** web a
 
 ---
 
-### 🛠️ Tech Stack
-**Frontend & Design**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mui" />
-  </a>
-</p>
+### 🛠️ Technical Expertise
 
-**Programming & Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,git,vscode,windows" />
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="120px"><b>Frontend</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mui" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120px"><b>Programming</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,cs,cpp" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120px"><b>Tools & OS</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,vscode,windows,github" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 GitHub Stats
