@@ -75,16 +75,20 @@ https://github.com/JeedaSokkar/Furni-Shop
 ---
 ## GitHub Stats
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=JeedaSokkar&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JeedaSokkar&show_icons=true&hide_border=true"/>
 
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeedaSokkar&layout=compact&hide_border=true"/>
+</td>
+<td>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeedaSokkar&layout=compact&hide_border=true"/>
 
+</td>
+</tr>
+</table>
 ---
 
 ## Contact
