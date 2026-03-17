@@ -25,34 +25,31 @@ Passionate about creating **clean**, **responsive**, and **user-friendly** web a
 
 ### 🛠️ Technical Expertise
 
-<table>
-  <tr>
-    <td align="center" width="120px"><b>Frontend</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mui" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120px"><b>Programming</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,cpp" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120px"><b>Tools & OS</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,vscode,windows,github" />
-      </a>
-    </td>
-  </tr>
-</table>
----
+**Frontend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mui" title="Material UI" width="45" />
+</p>
 
+**Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="45" />
+</p>
+
+**Tools & Environment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows" width="45" />
+</p>
 ### 📊 GitHub Stats
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jeedasokkar&show_icons=true&theme=vincere&hide_border=true" alt="Stats" />
