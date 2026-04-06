@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>Jeeda Sokkar</h1>
+<h1 style="font-size: 52px; font-weight: 700; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Jeeda Sokkar
+</h1>
 <h3>Front-End Developer | Computer Systems Engineering</h3>
 
 <p>
