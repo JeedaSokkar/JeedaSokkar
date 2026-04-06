@@ -29,7 +29,7 @@
 ## About Me
 
 Front-End Developer passionate about building clean, responsive, and user-friendly web applications.  
-Experienced in React, JavaScript, Tailwind CSS, Material UI, and modern frontend development.
+Experienced in React, JavaScript, Tailwind CSS, Material UI,Bootstrap and modern frontend development.
 
 ---
 
@@ -52,7 +52,6 @@ Experienced in React, JavaScript, Tailwind CSS, Material UI, and modern frontend
 <img src="https://skillicons.dev/icons?i=git" title="Git"/>
 <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-<img src="https://skillicons.dev/icons?i=windows" title="Windows"/>
 
 </p>
 
@@ -64,14 +63,12 @@ Experienced in React, JavaScript, Tailwind CSS, Material UI, and modern frontend
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeedaSokkar&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JeedaSokkar&show_icons=true&theme=tokyonight"/>
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeedaSokkar&layout=compact&hide_border=true"/>
-
-</td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeedaSokkar&layout=compact&theme=tokyonight"/></td>
 </tr>
 </table>
 
