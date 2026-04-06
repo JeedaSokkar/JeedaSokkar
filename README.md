@@ -63,15 +63,16 @@ Experienced in React, JavaScript, Tailwind CSS, Material UI,Bootstrap and modern
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeedaSokkar&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeedaSokkar&show_icons=true&theme=default"/>
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeedaSokkar&layout=compact&theme=tokyonight"/></td>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeedaSokkar&layout=compact&theme=default"/>
+
+</td>
 </tr>
 </table>
-
 
 ## Contact
 
